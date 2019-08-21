@@ -1,0 +1,11 @@
+package sales;
+
+public class bill2 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Invoice");
+	}
+
+}
